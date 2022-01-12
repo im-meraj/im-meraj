@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meraj</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working on a **Blog App**
 
-- 🌱 I’m currently studying **MCA**
+- 📚 I’m currently studying **MCA**
 
 - 💬 Ask me about **html, css, javascript, react**
 
