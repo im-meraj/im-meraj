@@ -3,7 +3,7 @@
 
 - ⌨ Currently working on a **Blog App**
 
-- 📚 I’m currently studying **MCA**
+<!-- - 📚 I’m currently studying **MCA** -->
 
 - 💬 Ask me about **html, css, javascript, react**
 
