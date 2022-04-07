@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meraj</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web developer based in India</h3>
 
 - ⌨ Currently working on a **Blog App**
 
