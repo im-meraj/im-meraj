@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meraj</h1>
 <h3 align="center">A passionate full stack web developer based in India</h3>
 
-- ⌨ Currently working on a **Blog App**
+- ⌨ Currently working on a **Employee Payroll Management System**
 
 <!-- - 📚 I’m currently studying **MCA** -->
 
